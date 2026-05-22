@@ -1,18 +1,14 @@
 # Agricultural Resilience Modeling
 
-An academic business intelligence and predictive analytics project assessing agricultural adaptation needs under environmental and economic stressors.
+This project applies business intelligence methods and predictive analytics to assess whether agricultural regions require adaptation measures in response to environmental and economic stressors. Using a synthetic dataset of 5,000 records generated via generative AI, the analysis spans exploratory data analysis, dimensionality reduction, clustering, and binary classification modeling across four machine learning approaches.
 
-> **Note:** This project is intended for academic and portfolio purposes only.
-> It should not be interpreted as a production-ready decision system or as
-> professional agricultural, environmental, financial, or policy advice.
+> **Note:** This project is intended for academic and portfolio purposes only. It should not be interpreted as a production-ready decision system or as professional agricultural, environmental, financial, or policy advice.
 
 ---
 
 ## Objective
 
-Identify whether agricultural regions require adaptation measures based on environmental, economic, and agricultural indicators — demonstrating how predictive analytics and business intelligence methods can support proactive resource allocation, risk mitigation, and resilience planning.
-
-Indicators analyzed include precipitation, temperature, soil type, water stress, crop yield, market access, technology access, and extreme weather events.
+The goal of this project is to predict whether a given agricultural region requires adaptation — represented as a binary target variable (`Adaptation_Required`: 1 = required, 0 = not required) — based on a combination of environmental, agronomic, and economic indicators. These include precipitation, temperature, soil type, water stress, crop yield, market access, technology access, and extreme weather events. The analysis is intended to demonstrate how predictive analytics and business intelligence methods can support proactive resource allocation, risk mitigation, and resilience planning for agricultural stakeholders at both local and national levels.
 
 ---
 
@@ -24,6 +20,10 @@ Indicators analyzed include precipitation, temperature, soil type, water stress,
 | Interdependence Analysis | Principal component analysis, hierarchical clustering, k-means clustering |
 | Dependence Analysis | Logistic regression, decision tree, neural networks, support vector machines, ensemble modeling |
 | Model Evaluation | ROC curves, AUC, lift curves |
+
+The neural network achieved the strongest overall performance, with a validation AUC 
+of 0.939 and the highest lift values at the 10% and 30% thresholds. Logistic 
+regression (validation AUC 0.933) is recommended where interpretability is a priority.
 
 ---
 
