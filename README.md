@@ -49,9 +49,6 @@ The project uses the following analytical methods:
 
 - JMP
 - Microsoft Excel
-- Business intelligence analysis
-- Predictive modeling
-- Data visualization
 
 ## Software Requirement
 
@@ -65,10 +62,10 @@ The objective of this academic project is to identify whether agricultural regio
 
 ## Authors
 
-Vignesh Anand, Akshata Dalvi, Yash Mahadik, and Sidhant Mandal
+Yash Mahadik, Vignesh Anand, Akshata Dalvi, and Sidhant Mandal
 
 ## Copyright and Usage
 
-Copyright © 2026 Vignesh Anand, Akshata Dalvi, Yash Mahadik, and Sidhant Mandal. All rights reserved.
+Copyright © 2026 Yash Mahadik, Vignesh Anand, Akshata Dalvi, and Sidhant Mandal. All rights reserved.
 
 This repository is intended for academic and portfolio reference purposes only. The report, analysis files, datasets, visualizations, and supporting materials may not be copied, modified, redistributed, or used for commercial purposes without prior written permission from the authors.
