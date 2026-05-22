@@ -1,4 +1,4 @@
-# Agricultural Adaptation Analysis
+# Agricultural Resilience Modeling
 
 This repository contains an academic business intelligence and predictive analytics project focused on assessing agricultural adaptation needs under environmental and economic stressors.
 
