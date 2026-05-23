@@ -81,6 +81,6 @@ Yash Mahadik, Vignesh Anand, Akshata Dalvi, and Sidhant Mandal
 
 ## License
 
-Copyright © 2026 Yash Mahadik, Vignesh Anand, Akshata Dalvi, and Sidhant Mandal. All rights reserved.
+Copyright © 2026 Yash Mahadik, Vignesh Anand, Akshata Dalvi, & Sidhant Mandal. All rights reserved.
 
 This repository is intended for academic and portfolio reference only. The report, analysis files, datasets, visualizations, and supporting materials may not be copied, modified, redistributed, or used for commercial purposes without prior written permission from the authors.
